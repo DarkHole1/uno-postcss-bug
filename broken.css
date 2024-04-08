@@ -1,0 +1,7 @@
+@unocss;
+
+.send-emoji {
+  @apply i-mdi-add;
+  @apply foo;
+  @apply bar;
+}
