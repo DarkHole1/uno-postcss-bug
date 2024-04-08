@@ -2,8 +2,8 @@
   "dependencies": {
     "postcss": "^8.4.21",
     "postcss-cli": "^11.0.0",
-    "@unocss/postcss": "^0.58.3",
-    "unocss": "^0.58.3"
+    "@unocss/postcss": "^0.59.0",
+    "unocss": "^0.59.0"
   },
   "scripts": {
     "correct": "postcss correct.css --use @unocss/postcss",
